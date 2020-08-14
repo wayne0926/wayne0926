@@ -1,4 +1,3 @@
-### Hi there 👋
 ## 欢迎访问我的博客
 [时过境迁Wayne博客](https://wr0926.ml)
 <!--
@@ -15,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 简介
+昵称：时过境迁Wayne
+性别：♂
+
+## 概述
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wr20060926)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr20060926)](https://github.com/anuraghazra/github-readme-stats)
 
