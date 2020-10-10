@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 😉性别：♂
 
 💡博客：[https://wr0926.ml](https://wr0926.ml)
+其他链接：
+[https://sj.wr0926.ml](https://sj.wr0926.ml)
+[https://cd.wr0926.ml](https://cd.wr0926.ml)
+[https://wiki.wr0926.ml](https://wiki.wr0926.ml)
+[https://baidu.wr0926.ml](https://baidu.wr0926.ml)
+[https://bull.wr0926.ml](https://bull.wr0926.ml)
+[https://fonts.wr0926.ml](https://fonts.wr0926.ml)
+[https://music.wr0926.ml](https://music.wr0926.ml)
+[https://x.wr0926.ml](https://x.wr0926.ml)
 ## 概述
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
