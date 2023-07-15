@@ -1,5 +1,5 @@
 ## 欢迎访问我的博客
-[时过境迁Wayne博客](https://wr0926.ml)
+[Wayne's Blog](https://wrans.top)
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 简介
-🎈昵称：时过境迁Wayne
+🎈昵称：Waynexxxx
 
 😉性别：♂
 
-💡博客：[https://wr0926.ml](https://wr0926.ml)
+💡博客：[Wayne's Blog](https://wrans.top)
 
 其他链接：
 
