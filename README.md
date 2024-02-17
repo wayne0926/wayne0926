@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 💡Blog：[Wayne's Blog](https://wrans.top)
 
+📫Email: wran@outlook.it
+
+⚡Interest:
+ - Graphic Design
+ - Photography 
+ - ...
 Another Links：
 
 [Life CountDown](https://cd.wahr.top)
