@@ -1,4 +1,4 @@
-## 欢迎访问我的博客
+## Welcome to my Blog
 [Wayne's Blog](https://wrans.top)
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 简介
-🎈昵称：Waynexxxx
+## Bio
+🎈NickName：Waynexxxx
 
-😉性别：♂
+😉Gender：♂
 
-💡博客：[Wayne's Blog](https://wrans.top)
+💡Blog：[Wayne's Blog](https://wrans.top)
 
-其他链接：
+Another Links：
 
-[人生倒计时](https://cd.wahr.top)
+[Life CountDown](https://cd.wahr.top)
 
-[听写工具](https://dictation.wahr.top)
-## 概述
+[Dictation Tool](https://dictation.wahr.top)
+## OverView
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
 
